@@ -5,7 +5,7 @@ var playerCount;
 var allPlayers;
 var distance = 0;
 var database;
-
+var car1,car2,car3,car4,cars;
 var form, player, game;
 
 
